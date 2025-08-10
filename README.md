@@ -2,7 +2,7 @@
 <h1 align="center">
   Hey there 👋, I'm <span style="color:#ff6ec7">Musfiraa Arif</span>
 </h1>
-<h3 align="center">💻 MERN Stack Developer | 📊 DSA Enthusiast | 🎯 Outreachy 2026 Aspirant</h3>
+<h3 align="center">💻 MERN Stack Developer | 📊 DSA Enthusiast </h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -11,27 +11,10 @@
 
 ---
 
-## 🚀 Tech Arsenal  
+## 🚀 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,mysql,html,css,figma,docker,git" />
 </p>
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 [Online Judge Platform](https://github.com/Mooosiee/OJ-Projext)  
-⚡ A modern online judge to submit & evaluate programming problems.  
-**Tech:** React.js, Node.js, Express.js, MongoDB, Docker  
-**Highlights:** Secure isolated code execution, responsive UI, scalable deployment.  
-
-### 🔹 [Voice-Based Community Support Platform](https://tinyurl.com/3ufjs6ms) *(Hackathon)*  
-🎙️ AI-powered platform for voice complaint logging, event recommendations, and analytics.  
-**Tech:** React, Flask, MongoDB  
-
-### 🔹 [Thrift Store UX Mockup](https://drive.google.com/file/d/1u0FxYpJEValzjHKsNzoxnNMpULEZ4N0X/view?usp=sharing)  
-🛍️ Accessible e-commerce design focusing on sustainability.  
-**Tech:** Figma, UI/UX principles  
 
 ---
 
@@ -45,13 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooosiee&layout=compact&theme=radical" height="120" />
 </p>
-
----
-
-## 🏆 Achievements  
-- 🥇 **Accelerator Programming Camp 2025** — Top 1.4% out of 40,000 students, mentored by engineers from Apple, Google, Grab Singapore, Alphagrep Singapore.  
-- 🌟 **GSSoC Contributor 2024** — Contributed to open-source web projects.  
-- 🎨 Designed UI/UX for **Infotsav website**, boosting user engagement.  
 
 ---
 
