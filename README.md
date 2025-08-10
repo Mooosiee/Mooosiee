@@ -36,7 +36,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/musfiraa-arif-8573a728b"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:musfiraaarif12@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/musfiraa/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/Mooosiee"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
