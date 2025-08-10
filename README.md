@@ -44,5 +44,5 @@
 
 <!-- Fun footer -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/Mooosiee/Mooosiee/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/Mooosiee/Mooosiee/output/github-contribution-grid-snake.svg" alt = "Snake Animation" />
 </p>
