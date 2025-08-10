@@ -44,5 +44,5 @@
 
 <!-- Fun footer -->
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
 </p>
