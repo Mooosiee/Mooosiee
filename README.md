@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#ff6ec7">Musfiraa Arif</span>
+</h1>
+<h3 align="center">💻 MERN Stack Developer | 📊 DSA Enthusiast | 🎯 Outreachy 2026 Aspirant</h3>
 
-<!--
-**Mooosiee/Mooosiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full-stack+developer+%F0%9F%92%BB;UI%2FUX+designer+%F0%9F%96%A5;Open-source+contributor+%F0%9F%8C%90;Always+learning+new+things+%F0%9F%93%96" alt="Typing Animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,mysql,html,css,figma,docker,git" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 [Online Judge Platform](https://github.com/Mooosiee/OJ-Projext)  
+⚡ A modern online judge to submit & evaluate programming problems.  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Docker  
+**Highlights:** Secure isolated code execution, responsive UI, scalable deployment.  
+
+### 🔹 [Voice-Based Community Support Platform](https://tinyurl.com/3ufjs6ms) *(Hackathon)*  
+🎙️ AI-powered platform for voice complaint logging, event recommendations, and analytics.  
+**Tech:** React, Flask, MongoDB  
+
+### 🔹 [Thrift Store UX Mockup](https://drive.google.com/file/d/1u0FxYpJEValzjHKsNzoxnNMpULEZ4N0X/view?usp=sharing)  
+🛍️ Accessible e-commerce design focusing on sustainability.  
+**Tech:** Figma, UI/UX principles  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mooosiee&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mooosiee&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooosiee&layout=compact&theme=radical" height="120" />
+</p>
+
+---
+
+## 🏆 Achievements  
+- 🥇 **Accelerator Programming Camp 2025** — Top 1.4% out of 40,000 students, mentored by engineers from Apple, Google, Grab Singapore, Alphagrep Singapore.  
+- 🌟 **GSSoC Contributor 2024** — Contributed to open-source web projects.  
+- 🎨 Designed UI/UX for **Infotsav website**, boosting user engagement.  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/musfiraa-arif-8573a728b"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:musfiraaarif12@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/musfiraa/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/Mooosiee"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Fun footer -->
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/github-contribution-grid-snake.svg" />
+</p>
